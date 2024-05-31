@@ -5,6 +5,6 @@ Load the project in scratch https://scratch.mit.edu
 
 # Cat Chasing Mouse
 
-[Cat Chasing Mouse](Cat%20chasing%20Mouse.md)
+[Cat Chasing Mouse](./catChasingMouse)
 
-![Cat Chasing Mouse](./CatChasingMouse-Scratch.png)
+![Cat Chasing Mouse](./catChasingMouse/CatChasingMouse-Scratch.png)
