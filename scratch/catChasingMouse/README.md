@@ -7,67 +7,68 @@ https://scratch.mit.edu/projects/1016429319/editor/
 
 # Rename the Cat sprite to `cat`
 
-![](./instructions/rename_the_cat_sprite.png)
+<img src="./instructions/rename_the_cat_sprite.png" width="70%">
+
 
 # Add the Desert background
 
-![](./instructions/add_the_desert_background.png)
+<img src="./instructions/add_the_desert_background.png" width="25%">
 
 # Set the initial cat position
 
-![](./instructions/set_the_initial_cat_position.png)
+<img src="./instructions/set_the_initial_cat_position.png" width="40%">
 
 # Move the cat
 
-![](./instructions/move_the_cat.png)
+<img src="./instructions/move_the_cat.png" width="100%">
 
 # Add the Mouse sprite
 
-![](./instructions/add_the_mouse_sprite_1.png)
-![](./instructions/add_the_mouse_sprite_2.png)
+<img src="./instructions/add_the_mouse_sprite_1.png" width="50%">
+<img src="./instructions/add_the_mouse_sprite_2.png" width="50%">
 
 # Move the mouse
 
-![](./instructions/move_the_mouse.png)
+<img src="./instructions/move_the_mouse.png" width="70%">
 
 # Don't let me mouse go off screen
 
-![](./instructions/dont_let_the_mouse_go_offscreen.png)
+<img src="./instructions/dont_let_the_mouse_go_offscreen.png" width="60%">
 
 # Cat catching mouse
 
-![](./instructions/cat_catching_mouse.png)
+<img src="./instructions/cat_catching_mouse.png" width="60%">
 
 # Make the mouse disappear when caught
 
 On the cat:
 
-![](./instructions/make_the_mouse_disappear_when_caught_1.png)
+<img src="./instructions/make_the_mouse_disappear_when_caught_1.png" width="60%">
 
 On the mouse:
 
-![](./instructions/make_the_mouse_disappear_when_caught_2.png)
+<img src="./instructions/make_the_mouse_disappear_when_caught_2.png" width="60%">
 
 # Make the mouse appear in random locations
 
-![](./instructions/make_the_mouse_appear_in_random_locations.png)
+<img src="./instructions/make_the_mouse_appear_in_random_locations.png" width="90%">
 
 # Add variables score and time
 
-![](./instructions/add_variables_score_and_time.png)
+<img src="./instructions/add_variables_score_and_time.png" width="100%">
 
 # Increase score when mouse is caught
 
 On the background:
 
-![](./instructions/increase_score_when_mouse_is_caught_1.png)
+<img src="./instructions/increase_score_when_mouse_is_caught_1.png" width="40%">
 
 On the cat:
 
-![](./instructions/increase_score_when_mouse_is_caught_2.png)
+<img src="./instructions/increase_score_when_mouse_is_caught_2.png" width="50%">
 
 # Make time decrease
 
 On the background:
 
-![](./instructions/make_time_decrease.png)
+<img src="./instructions/make_time_decrease.png" width="50%">
