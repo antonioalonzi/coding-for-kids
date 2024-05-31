@@ -71,3 +71,11 @@ On the cat:
 On the background:
 
 ![](./instructions/make_time_decrease.png)
+
+# Stop them mouse when time is 0
+
+![](./instructions/when_time_is_0_dont_move_the_mouse_anymore.png)
+
+# Don't make the mouse walk in the sky
+
+![](./instructions/dont_make_the_mouse_walk_in_the_sky.png)
