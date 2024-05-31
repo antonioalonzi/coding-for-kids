@@ -41,9 +41,11 @@ https://scratch.mit.edu/projects/1016429319/editor/
 # Make the mouse disappear when caught
 
 On the cat:
+
 ![](./instructions/make_the_mouse_disappear_when_caught_1.png)
 
 On the mouse:
+
 ![](./instructions/make_the_mouse_disappear_when_caught_2.png)
 
 # Make the mouse appear in random locations
@@ -57,12 +59,15 @@ On the mouse:
 # Increase score when mouse is caught
 
 On the background:
+
 ![](./instructions/increase_score_when_mouse_is_caught_1.png)
 
 On the cat:
+
 ![](./instructions/increase_score_when_mouse_is_caught_2.png)
 
 # Make time decrease
 
 On the background:
+
 ![](./instructions/make_time_decrease.png)
