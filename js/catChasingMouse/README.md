@@ -6,7 +6,7 @@ A cat chasing a mouse game
 
 # Live game on github pages
 
-https://pages.github.corp.ebay.com/Shipping-GPLT/interview/children/js/catChasingMouse/catChasingMouse.html
+https://antonioalonzi.github.io/coding-for-kids/js/catChasingMouse/catChasingMouse.html
 
 
 # Steps
